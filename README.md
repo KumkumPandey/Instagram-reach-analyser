@@ -47,7 +47,7 @@ A modern, AI-powered web app to analyze your Instagram usage and engagement with
 
 4. **Open in browser:**
    ```
-  
+ open-  https://insta-reach-analyser.netlify.app/
    ```
 
 ---
